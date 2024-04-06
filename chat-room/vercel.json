@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+{
+    "version": 2,
+    "builds": [{ "src": "./server.js","use":"@vercel/node"}],
+    "routes": [{ "src": "/.*", "dest": "/"}]
+
+=======
+{
+    "version": 2,
+    "builds": [{ "src": "./server.js","use":"@vercel/node"}],
+    "routes": [{ "src": "/.*", "dest": "/"}]
+
+>>>>>>> db92de0f6610a16c67756d54cad926d1c8232231
+}
