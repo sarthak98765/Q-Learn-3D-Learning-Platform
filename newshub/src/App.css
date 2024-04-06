@@ -1,0 +1,160 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins " sans-serif;
+}
+html{
+  font-size: 62.58;
+}
+body{
+
+  background-color: rgb(117, 140, 188) ;
+  font-size: 3. 2rem ;
+  margin: 2rem 0;
+  text-align: center;
+}
+h1{
+  font-family: "IBM Plex Serif", serif;
+  font-size: 60px;
+  color: #ffffff;
+}
+h2{
+  font-family: "IBM Plex Serif", serif;
+  font-size: 2. 4rem;
+  /* text-emphasis-color: blue; */
+  color: #240b52;
+}
+p{
+
+  margin: 2rem 0;
+  color: rgba(21, 19, 60, 0.5);
+  font-weight : 400;
+  font-size:.6rem;
+  display: inline-block;
+}
+span {
+
+  text-transform : capitalize ;
+  font-weight : bold;
+}
+.stories-div {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 4rem ;
+ }
+ .card {
+  /* display: flex; */
+  min-width: 20rem;
+  width: 40vw;
+  padding: 4rem;
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.7) 0px 7px 29px 0px;
+  border-radius: 0.5rem;
+  color: #15133c;
+  transition: all 0.3s ease; /* Added transition for smooth hover effect */
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Added hover effect to lift the card */
+  box-shadow: rgba(0, 0, 0, 0.) 0px 12px 24px -10px; /* Changed box shadow on hover */
+}
+
+.card:focus {
+  outline: none; /* Remove outline on focus */
+}
+
+.card-button {
+flex-direction: row;
+width: 100%;
+display: flex;
+justify-content: space-between; 
+}
+.card-button a {
+color: darkcyan;
+font-weight: 400;
+font-size: 1.6rem ; }
+.card-button a:last-child {
+color: rgb(152, 126, 126); }
+
+form {
+display: grid;
+place-items : center;
+/* subscribe to Thapa Technical YouTube
+channel for more awesome videos } */
+}
+
+input {
+  padding: 1rem;
+  min-width: 40rem;
+  font-size: 2rem;
+  text-transform: capitalize;
+  border: none;
+  border-bottom: 0.2rem solid #15133c;
+  margin-top: 2rem;
+  outline: none;
+  transition: all 0.3s ease; /* Added transition for smooth hover effect */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added box shadow */
+}
+
+input:hover {
+  background-color: lightcyan; /* Hover background color */
+}
+
+input:focus {
+  background: lightcyan;
+  border-color: aqua;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.5); /* Added focus box shadow */
+}
+
+.pagination-btn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  /* background-color: #007bff; */
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+button{
+padding: 0.8rem 2.2rem;
+border: none;
+font-size: 1. 6rem ;
+background-color: #15133c;
+coLor: #ffffff;
+margin: 3rem;
+cursor: pointer;
+display: inline-block;
+transition: all ease 400ms;
+}
+
+button:hover{
+  background: rgb(11, 21, 119);
+}
+@media (max-width: 998px) {
+html{
+font-size : 56.8% ;}
+.card {
+min-width: 45rem;
+padding: 2.5rem;
+}
+}
+@media (max-width: 768px) {
+html{
+font-size : 51.8%;
+ }
+.card {
+min-width: 35rem;
+padding: 2rem; 
+} 
+} 
