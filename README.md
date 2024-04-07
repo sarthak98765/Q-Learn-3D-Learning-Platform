@@ -3,7 +3,7 @@
 A 3D virtual Platform to solve the problem (Gamified platform for Student learning).
 
 ## APK Link
-[Download Q-Learn APK](//https://drive.google.com/file/d/12T0jrA5-vqmJYGayfvTaeRUPXMmd_jkx/view?usp=drive_link)
+[Download Q-Learn APK](https://drive.google.com/file/d/1FbFsGfz-xi8iGjtb9C4DOARbMdUp-VJN/view?usp=drive_link)
 
 ## What is Q-Learn?
 Tired of traditional learning? Buckle up for Q-Learn, a groundbreaking 3D virtual platform that makes learning an engaging adventure! Designed for students, Q-Learn ignites a passion for knowledge through gamified experiences and a vibrant multiplayer environment. Q-Learn gamifies education in a stunning 3D world! Explore learning rooms for ML, web dev, and game dev, all with chatbots, websites, and videos. Master quizzes in the shopping room to earn points and buy cool in-game items. Real-time chat lets you connect with fellow students, all within the seamless 3D environment. Dive in and Q-Learn!
@@ -29,15 +29,20 @@ Tired of traditional learning? Buckle up for Q-Learn, a groundbreaking 3D virtua
 
 ## Features
 - **Multiplayer**
-  ![Multiplayer](./images/multiplayer.png)
+  ![Multiplayer](./images/multiplayer.jpg)
 - **Chat System**
-  ![Chat System](./images/chat.png)
+  ![Chat System](./images/chatroom.jpg)
 - **3D Visualization**
-  ![3D Visualization](./images/visualization.png)
+  ![3D Visualization](./images/3D%20visualization.jpg)
 - **Chat Bots**
-  ![Chat Bots](./images/chatbots.png)
+  ![Chat Bots](./images/chatbot.jpg)
 - **Interactive Websites**
-  ![Interactive Websites](./images/websites.png)
+  ![Interactive Websites](./images/website_learn.jpg)
+- **NPCs**
+  ![NPCs](./images/NPCs.jpg)
+- **Quiz and Shopping**
+  ![Quiz](./images/quiz.jpg)
+  ![Shopping](./images/shopping.jpg)
 
 ## Future Scope
 - **Voice Chat Integration**: Q-Learn can consider integrating voice chat features to enhance user interaction within the metaverse.
@@ -46,4 +51,4 @@ Tired of traditional learning? Buckle up for Q-Learn, a groundbreaking 3D virtua
 - **Virtual Try-On**: Take the immersive experience a step further by incorporating virtual reality (VR) capabilities. Imagine exploring simulated environments relevant to your chosen field, like a virtual lab for ML experiments or a 3D game engine for hands-on development.
 
 ## Video Demo
-[Watch Video Demo](//https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch Video Demo](https://www.youtube.com/watch?v=HMAS8WX5SUQ)
