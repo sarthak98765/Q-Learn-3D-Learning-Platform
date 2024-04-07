@@ -51,4 +51,5 @@ Tired of traditional learning? Buckle up for Q-Learn, a groundbreaking 3D virtua
 - **Virtual Try-On**: Take the immersive experience a step further by incorporating virtual reality (VR) capabilities. Imagine exploring simulated environments relevant to your chosen field, like a virtual lab for ML experiments or a 3D game engine for hands-on development.
 
 ## Video Demo
-[Watch Video Demo](https://www.youtube.com/watch?v=HMAS8WX5SUQ)
+[![Video Demo](https://img.youtube.com/vi/HMAS8WX5SUQ/0.jpg)](https://www.youtube.com/watch?v=HMAS8WX5SUQ)
+
